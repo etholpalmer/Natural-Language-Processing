@@ -130,3 +130,4 @@ dmypy.json
 
 .fake
 .ionide
+workspace.code-workspace
